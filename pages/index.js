@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <html>
       <body>
-      Hey there its just a practice assingnment for deplyment
+      Hooh cutupie!!
       </body>
     </html>
     
